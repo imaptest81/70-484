@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\work\githubanonymous\70-484\70-484\70-484.windowsphone\obj\debug\intermediatexaml\70-484.windowsphone.exe" HashGuid="b7359b10-d183-8fe2-ffdd-003a56497e39" />
+    <ReferenceAssembly PathName="e:\work\githubanonymous\70-484\packages\rx-core.2.2.5\lib\portable-win81+wpa81\system.reactive.core.dll" HashGuid="e88ff990-7aa8-b77f-93a1-598ee1f64e5f" />
+    <ReferenceAssembly PathName="e:\work\githubanonymous\70-484\packages\rx-interfaces.2.2.5\lib\portable-win81+wpa81\system.reactive.interfaces.dll" HashGuid="2fd855ee-8440-f81f-a427-ceb8eb15ce8f" />
+    <ReferenceAssembly PathName="e:\work\githubanonymous\70-484\packages\rx-linq.2.2.5\lib\portable-win81+wpa81\system.reactive.linq.dll" HashGuid="415e3b50-c164-f753-1f27-a0a2efe20748" />
+    <ReferenceAssembly PathName="e:\work\githubanonymous\70-484\packages\rx-platformservices.2.2.5\lib\portable-win81+wpa81\system.reactive.platformservices.dll" HashGuid="af6ba9ad-5f77-bdaa-1d18-22248e6f3c99" />
+    <ReferenceAssembly PathName="e:\work\githubanonymous\70-484\packages\rx-xaml.2.2.5\lib\portable-win81+wpa81\system.reactive.windows.threading.dll" HashGuid="ad9f6df3-b720-f08a-1701-8ca9a78f3972" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
